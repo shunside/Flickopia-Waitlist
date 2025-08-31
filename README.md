@@ -16,11 +16,11 @@ Users can leave their email to join the waitlist, and the data is collected thro
 
 This project demonstrates the ability to take an idea and turn it into a **working, user-friendly page**. While small in scope, it’s reliable, responsive, and practical : a neat showcase of functional front-end development.
 
-## 💡 Notes
+## Notes
 - The project is intentionally simple: fast to load, accessible, and focused on delivering its core feature  
 - It’s meant as a **demonstration of capability** rather than a full-scale product  
 - Works well as a reference for clients or freelance opportunities
 
-## 📫 Contact / Freelance
+## Contact / Freelance
 - Discord: `imnotdc`
 <!--- - Freelance / Portfolio: [Fiverr / Portfolio Link](https://your-fiverr-or-portfolio-link.com) -->
